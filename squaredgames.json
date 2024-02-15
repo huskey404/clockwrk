@@ -6,7 +6,7 @@
   "longDesc": "A better game app. No ads, no random popups and no lag. It will stay that way forever.",
   "icon": "https://raw.githubusercontent.com/huskey404/clockwrk/main/squaredwhite.png",
   "banner": "https://raw.githubusercontent.com/huskey404/clockwrk/main/squaredbanner.png",
-  "author": "Squared Games and theajshields",
+  "author": "theajshields",
   "version": "v1.0.0",
   "finderTerms": ["squared","game","games"],
   "permissions": []
