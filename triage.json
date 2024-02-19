@@ -1,0 +1,13 @@
+{
+  "name": "Triage VM",
+  "desc": "Uses the Triage malware sandbox to make a virtual computer with no blocks",
+  "app-store-namespace": "triage_vm",
+  "url": "https://tria.ge/submit/file",
+  "longDesc": "does anyone really read this? not sure.",
+  "icon": "https://tria.ge/static/icons/favicon_triage.ico",
+  "banner": "https://tria.ge/static/icons/favicon_triage.ico",
+  "author": "theajshields",
+  "version": "v1.0.0",
+  "finderTerms": ["triage","browser","unblocked"],
+  "permissions": []
+}
