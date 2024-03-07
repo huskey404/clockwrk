@@ -1,0 +1,13 @@
+{
+  "name": "Talkomatic",
+  "desc": "A better chat app from the 1970s.",
+  "app-store-namespace": "talkomatic",
+  "url": "https://talkomatic.sjzoppi.com/",
+  "longDesc": "A better chat app from the 1970s. No ads, no lag. Credit to sjzoppi.",
+  "icon": "https://talkomatic.sjzoppi.com/favicon.ico",
+  "banner": "https://raw.githubusercontent.com/huskey404/clockwrk/main/squaredbanner.png",
+  "author": "theajshields and sjzoppi",
+  "version": "v1.0.0",
+  "finderTerms": ["chat","talk","talkomatic"],
+  "permissions": []
+}
